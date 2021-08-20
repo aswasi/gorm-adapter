@@ -1,7 +1,7 @@
 Gorm Adapter
 ====
 
-> In v3.0.3, method `NewAdapterByDB` creates table named `casbin_rules`,  ...
+> In v3.0.3, method `NewAdapterByDB` creates table named `casbin_rules`,
 > we fix it to `casbin_rule` after that.  
 > If you used v3.0.3 and less, and you want to update it,  
 > you might need to *migrate* data manually.
